@@ -4,3 +4,6 @@
 [submodule "Gitt"]
 	path = Gitt
 	url = git@github.com:AtGpt3/sub1.git
+[submodule "Git"]
+	path = Git
+	url = git@github.com:AtGpt3/sub1.git
